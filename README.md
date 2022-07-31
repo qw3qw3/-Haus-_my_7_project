@@ -1,3 +1,15 @@
 # project_-7_
 
-https://www.figma.com/file/4ewoagAdJzqrEDgmVMUEyc/Haus?node-id=0%3A1
+Я применил : 
+  1. HTML
+  2. CSS
+  
+Я научился :
+-  основным св-ам оформления: границ; заднего фона; блоков; списков и таблиц
+-  псевдоселекторам и псевдоэлементам
+-  св-ам display; position; flex
+- разобрался с разметкой сайта и контейнером контента 
+
+[Макет сайта](https://www.figma.com/file/4ewoagAdJzqrEDgmVMUEyc/Haus?node-id=0%3A1)
+
+***На сайте отстутсвует адаптив.***
